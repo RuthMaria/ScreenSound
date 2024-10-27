@@ -20,12 +20,14 @@
 
 O Screen Sound é uma aplicação que permite:
 
-- Salvar bandas
-- Visulizar bandas
-- Avaliar uma banda
-- Exibe a média de uma banda
+- Cadastrar música
+- Listar músicas
+- Criar álbum
+- Visualizar músicas de um álbum
+- Exibe discografia da banda
+- Lista de podcast
 
-Onde foi trabalhado conceitos como: funções, listas, dicionários e leitura/escrita no console.
+Onde foi trabalhado conceitos de orientação a objetos: construtores, classes, propriedades, métodos, listas e lambdas.
 
 <a id="technologies"></a><br>
 
@@ -37,7 +39,7 @@ Onde foi trabalhado conceitos como: funções, listas, dicionários e leitura/es
 
 ## :tv: Prévia
 
-![video](./video.gif)
+![video](./projeto.png)
 
 <a id="rodar"></a><br>
 
@@ -46,7 +48,7 @@ Onde foi trabalhado conceitos como: funções, listas, dicionários e leitura/es
 - Clonar este repositório
 
 ```
-git clone https://github.com/RuthMaria/PrimeiroProjeto.git
+git clone https://github.com/RuthMaria/ScreenSound.git
 ```
 
 - Rodar o projeto no Visual Studio
